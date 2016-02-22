@@ -1,2 +1,6 @@
+
 # cs207test
-Testing repository for CS207 Spring 2016
+
+[![Build Status](https://travis-ci.org/rahuldave/cs207test.svg?branch=master)](https://travis-ci.org/rahuldave/cs207test)
+
+[![Coverage Status](https://coveralls.io/repos/github/rahuldave/cs207test/badge.svg?branch=master)](https://coveralls.io/github/rahuldave/cs207test?branch=master)
